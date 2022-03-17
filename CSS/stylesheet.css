@@ -1,0 +1,40 @@
+* {
+    font-family: "Roboto";
+    font-weight: 400;
+    
+} 
+
+.beginning {
+    background-color: rgb(80, 77, 83);
+    padding: 50px;
+    margin: 20px;
+}
+
+.details {
+    background-color: grey;
+    padding: 50px;
+    margin: 10px;
+
+}
+
+.conclusion {
+    background-color: rgba(128, 128, 128, 0.267);
+    padding: 50px;
+    margin: 10px;
+}
+
+.about-us {
+    background-color:rgba(112, 109, 109, 0.267);
+    padding: 50px;
+    margin: 20px;
+}
+
+h1 {
+    color: whitesmoke;
+    padding-left: 130px;
+}
+
+h2 {
+    color: rgb(60, 62, 63);
+    font-size: x-large;
+}
